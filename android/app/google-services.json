@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329479783589",
+    "project_id": "mart-df14e",
+    "storage_bucket": "mart-df14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329479783589:android:bcb327dcf478293326f94c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329479783589-bntth14h9bk3j8reblcjk6u2871rlq0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJz28g8Z88PUNP7iByBvK1h0T7KfCh61w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329479783589-bntth14h9bk3j8reblcjk6u2871rlq0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
